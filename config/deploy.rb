@@ -2,7 +2,7 @@
 lock "~> 3.11.0"
 
 set :application, "sp_rails_api"
-set :repo_url, "git@github.com:ses101/rails-api.git"
+set :repo_url, "https://github.com/ses101/rails-api.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
